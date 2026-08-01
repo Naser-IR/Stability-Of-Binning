@@ -29,3 +29,21 @@ For the other aggregation functions:
 ## Plotting and Figures
 
 The `Draw/` directory contains the Python code used to generate the graphs and figures presented in the paper.
+
+## Experiments
+
+The repository also contains the code used to reproduce the experiments presented in the paper you will able to found the main for running the algorithms including changing the wanted parameters.
+
+### Census Data Reconstruction
+
+The `exp.py` file contains the code used to reconstruct the Census dataset and reproduce the corresponding experimental results.
+
+### Equal-Width and Equal-Depth Binning
+
+The `exp.py` file also contains the experiments comparing **equal-width binning** and **equal-depth binning**.
+
+### Runtime Comparison
+
+The `stable.py` file contains the code used to generate datasets with different domain sizes and compare the runtime of the **graph-based algorithm** and the **filtering-based algorithm**.
+
+
