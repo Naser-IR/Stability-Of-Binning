@@ -28,7 +28,7 @@ For the other aggregation functions:
 
 ## Plotting and Figures
 
-The `Draw/` directory contains the Python code used to generate the graphs and figures presented in the paper.
+The `Draw` directory contains the Python code used to generate the graphs and figures presented in the paper.
 
 ## Experiments
 
