@@ -46,4 +46,10 @@ The `exp.py` file also contains the experiments comparing **equal-width binning*
 
 The `stable.py` file contains the code used to generate datasets with different domain sizes and compare the runtime of the **graph-based algorithm** and the **filtering-based algorithm**.
 
+## Results
+
+The `\results_csv` directory contains the CSV files for all experiments presented in the paper.
+
+These files can be used to reproduce the figures by running the `plot_results` script located in the `\Draw` directory.
+
 
